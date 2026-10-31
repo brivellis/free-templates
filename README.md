@@ -5,6 +5,7 @@ Free, editable governance templates from [Brivellis](https://brivellis.com/resou
 | Template | Version | Folder | Download |
 |---|---|---|---|
 | Acceptable Use Policy | 1.0 (October 2026) | [acceptable-use-policy](acceptable-use-policy/) | [Release aup-v1.0](https://github.com/brivellis/free-templates/releases/tag/aup-v1.0) |
+| Readiness checklists: ISO/IEC 20000-1, ISO/IEC 27001, ISO 22301, NIST CSF 2.0 (Excel) | 1.0 (October 2026) | [readiness-checklists](readiness-checklists/) | [Release checklists-v1.0](https://github.com/brivellis/free-templates/releases/tag/checklists-v1.0) |
 
 Full starter kits (ISO/IEC 20000-1, ISO/IEC 27001, ISO 22301, security awareness) are listed at https://brivellis.com/resources/.
 
